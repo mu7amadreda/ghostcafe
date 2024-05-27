@@ -1,0 +1,174 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "title": "Esspereso",
+        "price": 40,
+        "images": [
+            "../images/esspreso.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 2,
+        "title": "Hot Caramel Latte",
+        "price": 90,
+        "images": [
+            "../images/late.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 3,
+        "title": "Hot Latte",
+        "price": 80,
+        "images": [
+            "../images/late3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 4,
+        "title": "Hot Hazelnut Latte",
+        "price": 95,
+        "images": [
+            "../images/late2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        
+        {
+        "id": 5,
+        "title": "White Mocha",
+        "price": 85,
+        "images": [
+            "../images/whitemoca.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 6,
+        "title": "Hot Chocolate",
+        "price": 110,
+        "images": [
+            "../images/hotchoc.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 7,
+        "title": "Iced Caramel Macciato",
+        "price": 100,
+        "images": [
+            "../images/icecaramel.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 8,
+        "title": "Ice Chocolate",
+        "price": 110,
+        "images": [
+            "../images/icechoc.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 9,
+        "title": "Ice Coffee",
+        "price": 80,
+        "images": [
+            "../images/icecoffe.webp",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 10,
+        "title": "Ice Latte",
+        "price": 90,
+        "images": [
+            "../images/icelate.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 11,
+        "title": "Ice White Mocha",
+        "price": 120,
+        "images": [
+            "../images/IcedWhiteChocolateMocha.avif",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 12,
+        "title": "Mango",
+        "price": 150,
+        "images": [
+            "../images/mango.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 13,
+        "title": "Strawberry",
+        "price": 150,
+        "images": [
+            "../images/stewrabry.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 14,
+        "title": "Kiwi",
+        "price": 150,
+        "images": [
+            "../images/kiwi.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        },
+        {
+        "id": 15,
+        "title": "Dragon Fruit",
+        "price": 150,
+        "images": [
+            "../images/dargon.jpeg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            ]    
+        }
+        
+        ],
+    "total": 100,
+    "skip": 0,
+    "limit": 30
+    }
